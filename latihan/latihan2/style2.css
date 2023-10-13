@@ -1,0 +1,19 @@
+body {
+    background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    background-color: lightslategray;
+}
+
+a {
+    text-decoration: none;
+    color: ;
+}
+
+a:hover {
+    background-color: rgb(22, 206, 206);
+    color: blue;
+    border-radius: 50px;
+}
