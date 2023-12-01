@@ -20,7 +20,7 @@ h3 {
 }
 
 .a1 {
-    color: orangered;
+    color: palevioletred;
     font-variant-caps: petite-caps;
 }
 
@@ -34,7 +34,7 @@ h3 {
 }
 
 .a2:hover {
-    background-color: blue;
+    background-color: green;
     color: white;
 }
 
